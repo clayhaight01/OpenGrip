@@ -4,8 +4,8 @@
 
 <!-- Replace this comment with your HTML or Markdown for side-by-side images -->
 <div>
-  <img src="./Pictures/Iso_Render.png" alt="Isometric Render of OpenGrip" width="300"/>
-  <img src="./Pictures/Iso_Real.jpg" alt="Isometric View of the Actual OpenGrip" width="300"/>
+  <img src="./Pictures/Iso_Render.png" alt="Isometric Render of OpenGrip" width="500"/>
+  <img src="./Pictures/Iso_Real.jpg" alt="Isometric View of the Actual OpenGrip" width="500"/>
 </div>
 
 ## Overview
