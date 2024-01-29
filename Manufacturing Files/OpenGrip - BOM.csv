@@ -1,0 +1,30 @@
+OpenGrip,"a simple, low cost, robotics gripper",,,,,
+,,,,,,
+Name,Configuration,Link,Price,Quantity,Total Price (USD),Notes
+Dynamixel Servo,XL430-W250,https://www.robotis.us/dynamixel-xl430-w250-t/,$49.90,1,$49.90,Use screws that come with it for pulley mounting
+Constant Force Spring,0.1x8x110,https://www.aliexpress.com/item/1005002310168061.html?spm=a2g0o.order_list.order_list_main.64.7189180257OJ3W,$6.52,2,$13.04,
+Linear Rail & Carriage,80 - MGN7C,https://www.aliexpress.com/item/1005004894759989.html?spm=a2g0o.order_list.order_list_main.107.7189180257OJ3W,$13.41,2,$26.82,
+Nylon Belt,8in,https://www.mcmaster.com/6082K51-6082K202/,$7.12,1,$7.12,If you want no compliance
+Rubber Belt,60mm,"https://www.aliexpress.com/item/1005001961868127.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.2.ddf51e3dRMTv3j&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=eaad4d3c-8021-45cd-bdea-4068206bb3af&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:eaad4d3c-8021-45cd-bdea-4068206bb3af,tpp_buckets:668%232846%238108%231977&isseo=y&pdp_npi=4%40dis%21CAD%217.03%217.03%21%21%215.10%215.10%21%402101f00117064211927724278ec7af%2112000018239069575%21rec%21CA%21730391725%21&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A",$5.21,0,$0.00,If you want compliance
+Silicone Padding,300x30x1,https://www.aliexpress.com/item/1005003757932880.html?spm=a2g0o.order_list.order_list_main.102.7189180257OJ3W,$2.52,1,$2.52,
+Heat Set Inserts,M2-M4,https://www.aliexpress.com/item/1005005227477455.html?spm=a2g0o.order_list.order_list_main.117.7189180257OJ3W,$18.93,1,$18.93,
+M2 Flat Head,5mm,https://www.mcmaster.com/92125A051/,$10.80,1,$10.80,Multiple other sources
+Screws,Cap,https://www.aliexpress.com/item/33033655207.html?spm=a2g0o.order_list.order_list_main.192.7189180257OJ3W,$21.73,1,$21.73,
+Screws,Flat,https://www.aliexpress.com/item/33033655207.html?spm=a2g0o.order_list.order_list_main.192.7189180257OJ3W,$24.90,1,$24.90,
+Webcam,C922X,https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=sr_1_3?crid=385CFGTDNL9Q9&keywords=c922x&qid=1706420913&sprefix=c922x%2Caps%2C90&sr=8-3,79.99,0,$0.00,Optional
+,,,,Total,$175.76,
+,,,,,,
+,,,,,,
+"I used MJF for all the plastic parts from JLCPCB, but everything can be easily FDM printed.",,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+File Name,,Material,Manufacturing,Quantity,Notes,
+Gripper_Structure.STL,,PA11/PLA,MJF/FDM,1,,
+Gripper_Jaw.STL,,PA11/PLA,MJF/FDM,2,,
+CF_Spring_Idler.STL,,PA11/PLA,MJF/FDM,2,,
+CF_Spring_Idler_Cap.STL,,PA11/PLA,MJF/FDM,2,,
+Gripper_Carriage_Mount<...>.DXF or .STEP,,Aluminum,Laser/Waterjet/CNC,1,"I got from SendCutSend. If you want high force grasps, switch to stainless. If you want to lasercut/waterjet and countersink yourself, use the DXF. If you are CNCing use the STEP.",
+Gripper_Drive_Pulley.STL,,PA11/PLA,MJF/FDM,1,,
+C922X_Pro_Clamp.STL,,PA11/PLA,MJF/FDM,0,"Optional, for webcam",
