@@ -25,5 +25,5 @@ robotics grippers are often expensive, bulky, and challenging to integrate. Open
 
 ## getting started
 
-Assembly instructions can be found [here]([https://docs.google.com/spreadsheets/d/18ndGbQFCbwUeQNG1r3dqTShQs4zwCBGkiXpTbjC0DrM/edit?usp=sharing](https://docs.google.com/presentation/d/1iBIFQ8Uv3fJxjH3Wcjm2KIDGo_j1fCUzhZIH-ikzjmM/edit?usp=sharing))
-BOM can be found [here]([https://www.google.com](https://docs.google.com/spreadsheets/d/18ndGbQFCbwUeQNG1r3dqTShQs4zwCBGkiXpTbjC0DrM/edit?usp=sharing)
+Assembly instructions can be found [here](https://docs.google.com/presentation/d/1iBIFQ8Uv3fJxjH3Wcjm2KIDGo_j1fCUzhZIH-ikzjmM/edit?usp=sharing)
+BOM can be found [here](https://docs.google.com/spreadsheets/d/18ndGbQFCbwUeQNG1r3dqTShQs4zwCBGkiXpTbjC0DrM/edit?usp=sharing)
