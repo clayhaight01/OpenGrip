@@ -25,6 +25,6 @@ robotics grippers are often expensive, bulky, and challenging to integrate. Open
 
 ## getting started
 
-I may add instructions the next time I build one, but for now use the CAD assembly as a guide
-BOM can be found here:
-https://docs.google.com/spreadsheets/d/18ndGbQFCbwUeQNG1r3dqTShQs4zwCBGkiXpTbjC0DrM/edit?usp=sharing
+Assembly instructions can be found [here](https://docs.google.com/presentation/d/1iBIFQ8Uv3fJxjH3Wcjm2KIDGo_j1fCUzhZIH-ikzjmM/edit?usp=sharing)
+
+BOM can be found [here](https://docs.google.com/spreadsheets/d/18ndGbQFCbwUeQNG1r3dqTShQs4zwCBGkiXpTbjC0DrM/edit?usp=sharing)
